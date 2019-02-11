@@ -6,10 +6,10 @@ navbar:
   left:
     - text: "Resume"
       href: resume.html
-    - text: "Pagetitle"
-      href: pagename.html
+    - text: "Mathematical Topics"
+      href: math.html
 
 output:
   html_document:
     theme: cosmo
-    highlight: espresso
+    highlight: textmate

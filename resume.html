@@ -11,7 +11,7 @@
 
 
 
-<title>John Doe’s Resume</title>
+<title>Resume</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,7 +20,24 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
 
 
 
@@ -265,7 +282,7 @@ $(document).ready(function () {
   <a href="resume.html">Resume</a>
 </li>
 <li>
-  <a href="pagename.html">Pagetitle</a>
+  <a href="math.html">Mathematical Topics</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -279,12 +296,57 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">John Doe’s Resume</h1>
+<h1 class="title toc-ignore">Resume</h1>
 
 </div>
 
 
-<p>Resume content.</p>
+<div id="education" class="section level2">
+<h2>Education</h2>
+<ul>
+<li>University of North Carolina at Wilmington, Wilmington, NC: 2015 - 2016</li>
+<li>Appalachian State University, Boone, NC: 2017 - 2019</li>
+<li>Bachelors of Science in Mathematics, Concentration in Life Sciences</li>
+<li>Minor in Statistics</li>
+<li>Experience in programming language, R and Python</li>
+<li>Experience with Microsoft Office and Github</li>
+</ul>
+</div>
+<div id="courses-related-to-degree" class="section level2">
+<h2>Courses Related to Degree</h2>
+<ul>
+<li>Statistical Analysis 1</li>
+<li>Real Analysis 1</li>
+<li>Linear Algebra</li>
+<li>Numerical Methods</li>
+<li>Mathematical Biology</li>
+<li>Data Science 1</li>
+</ul>
+</div>
+<div id="work-experience" class="section level2">
+<h2>Work Experience</h2>
+<div id="food-lion" class="section level3">
+<h3>Food Lion</h3>
+<ul>
+<li>Cashier from 2012 - 2018</li>
+<li>Communicating with customers</li>
+</ul>
+</div>
+<div id="mccalisters" class="section level3">
+<h3>McCalisters</h3>
+<ul>
+<li>Cashier, 2017</li>
+</ul>
+</div>
+<div id="office-assistant" class="section level3">
+<h3>Office Assistant</h3>
+<ul>
+<li>At the Living Learning Center at Appalachian State University</li>
+<li>2016 - 2018</li>
+<li>Made copies *Answered phones</li>
+</ul>
+</div>
+</div>
 
 
 

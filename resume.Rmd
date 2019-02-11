@@ -1,5 +1,39 @@
 ---
-title: "John Doe's Resume"
+title: "Resume"
 ---
 
-Resume content.
+## Education
+
+* University of North Carolina at Wilmington, Wilmington, NC: 2015 - 2016
+* Appalachian State University, Boone, NC: 2017 - 2019 
+* Bachelors of Science in Mathematics, Concentration in Life Sciences
+* Minor in Statistics
+* Experience in programming language, R and Python
+* Experience with Microsoft Office and Github
+
+## Courses Related to Degree
+
+* Statistical Analysis 1
+* Real Analysis 1
+* Linear Algebra 
+* Numerical Methods
+* Mathematical Biology
+* Data Science 1
+
+## Work Experience
+
+### Food Lion
+* Cashier from 2012 - 2018
+* Communicating with customers
+
+### McCalisters 
+* Cashier, 2017
+
+### Office Assistant
+* At the Living Learning Center at Appalachian State University
+* 2016 - 2018
+* Made copies
+*Answered phones
+
+
+

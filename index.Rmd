@@ -1,5 +1,9 @@
 ---
-title: "My Website"
+title: "Welcome to my Website!"
 ---
 
-Hello, Website!
+My name is Lauren Treadway and I am a senior at Appalachian State University. I am a Mathematics major with a concentration in Life Sciences and a minor in Statistics. I created this site for my Data Science I class so we can get some hands on learning for R Studio and Github. 
+
+email: treadwayla@appstate.edu
+
+Interests: Math, Stats, Hiking, Cooking, Music
